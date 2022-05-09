@@ -1,5 +1,6 @@
 database.csv
-
+DailyDelhiClimateTrain.csv
+DailyDelhiClimateTest.csv
 
 .bundle. 
 lib/ 
